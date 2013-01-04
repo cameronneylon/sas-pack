@@ -1,0 +1,31 @@
+The cli giving input parameters required to generate the bag of tasks as provided
+---------------------------------------------------------------------------------
+
+CLI GUI App for PyBioSAS
+
+
+
+
+scale: Value for parameters, integer, float or list[None]... 0.01
+scale: Fix the parameter within the fit (True/False) [False]... 
+
+
+radius: Value for parameters, integer, float or list[None]... 10,20,30,50
+radius: Fix the parameter within the fit (True/False) [False]... 
+
+
+length: Value for parameters, integer, float or list[None]... 50,100,200
+length: Fix the parameter within the fit (True/False) [False]... 
+
+
+sldCyl: Value for parameters, integer, float or list[None]... 3.22e-6
+sldCyl: Fix the parameter within the fit (True/False) [False]... t
+
+
+sldSolv: Value for parameters, integer, float or list[None]... 6.33e-6
+sldSolv: Fix the parameter within the fit (True/False) [False]... t
+
+
+background: Value for parameters, integer, float or list[None]... 0
+background: Fix the parameter within the fit (True/False) [False]... 
+(Q)uit or (M)odify parameters?q

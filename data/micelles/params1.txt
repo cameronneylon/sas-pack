@@ -1,0 +1,28 @@
+CLI GUI App for PyBioSAS
+
+
+
+
+scale: Value for parameters, integer, float or list[None]... 100
+scale: Fix the parameter within the fit (True/False) [False]... 
+
+
+radius_a: Value for parameters, integer, float or list[None]... 1,2,5,10,20
+radius_a: Fix the parameter within the fit (True/False) [False]... 
+
+
+radius_b: Value for parameters, integer, float or list[None]... 1,2,5,10,20
+radius_b: Fix the parameter within the fit (True/False) [False]... 
+
+
+sldEll: Value for parameters, integer, float or list[None]... 2
+sldEll: Fix the parameter within the fit (True/False) [False]... t
+
+
+sldSolv: Value for parameters, integer, float or list[None]... 1
+sldSolv: Fix the parameter within the fit (True/False) [False]... t
+
+
+background: Value for parameters, integer, float or list[None]... 0
+background: Fix the parameter within the fit (True/False) [False]... 
+(Q)uit or (M)odify parameters?q
